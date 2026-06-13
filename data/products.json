@@ -1,0 +1,30 @@
+[
+{
+"id":1,
+"name":"Arduino Uno",
+"price":599,
+"image":"assets/images/arduino.jpg",
+"description":"Original Arduino Uno R3"
+},
+{
+"id":2,
+"name":"ESP32",
+"price":399,
+"image":"assets/images/esp32.jpg",
+"description":"WiFi + Bluetooth Board"
+},
+{
+"id":3,
+"name":"Servo Motor SG90",
+"price":120,
+"image":"assets/images/servo.jpg",
+"description":"Micro Servo Motor"
+},
+{
+"id":4,
+"name":"HC-SR04 Sensor",
+"price":99,
+"image":"assets/images/hcsr04.jpg",
+"description":"Ultrasonic Distance Sensor"
+}
+]
